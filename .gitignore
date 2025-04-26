@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebook checkpoints (if you use notebooks later)
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.tsv
+*.data
+
+# Logs
+*.log
+
+# Python environment files
+Pipfile
+Pipfile.lock
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
