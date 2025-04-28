@@ -1,6 +1,6 @@
 # Pairwise Attribute Visualization
 
-![Scatter Plot Example](images/scatterplot.png)
+![Scatter Plot Example](https://github.com/Rushika08/Iris-Dataset-Analysis/blob/main/Plots.png)
 
 ## Description
 
